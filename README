@@ -1,0 +1,4 @@
+Slides for my talk "Dependency Management with pipenv" at the PyCologne meetup on January 10th, 2018.
+
+Compile with landslide: https://github.com/adamzap/landslide
+Theme: https://github.com/akrabat/avalanche
